@@ -1,3 +1,4 @@
+/* Header Style  */
 .header {
     list-style-type: none;
     margin: 10px;
@@ -35,7 +36,8 @@
     
   }
 
-  
+/* Search Style  */
+
   .search-area {
     background: #fff;
     display: flex;
@@ -61,6 +63,7 @@
     border-radius: 16px;
     
   }
+/* Microphone İmage */
   
   .micimg {
     position: absolute;
@@ -91,6 +94,7 @@
     margin-top: -18px;
     top: 0%;
   }
+/* Search İmage */
   
   .search-img span {
     color: #ffffff;
@@ -102,6 +106,7 @@
     line-height: 24px;
     position: relative;
   }
+/* Buttons Style */
   
   .buttons {
     margin-top: 20px;
@@ -185,6 +190,7 @@
     padding-bottom: 3px;
     background-color: rgb(240, 240, 240);
   }
+/* Footer Style  */
   
   .footer {
     margin: 0;
