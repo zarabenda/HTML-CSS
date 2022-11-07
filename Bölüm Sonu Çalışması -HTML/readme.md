@@ -1,6 +1,6 @@
 # A Simple Html Page
-<b>TR: </b>Html ile yapılan bir bölüm sonu çalışması.<br>
-<b>EN: </b>A section break practice made with HTML.<br>
+<b>TR: </b>Html ile yapılan bir <b>bölüm sonu çalışması.</b><br>
+<b>EN: </b>A <b>section break practice</b> made with HTML.<br>
 
 ## Ana Sayfa/Homepage
 ![indexBölümSonuCalismasi](https://user-images.githubusercontent.com/109991448/200278166-52ebaf14-ea80-461c-a209-b2c59c715fdd.jpg)
