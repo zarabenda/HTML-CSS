@@ -1,4 +1,4 @@
-# Google 1998 Clone
+# Google 1998 Clone🙌
 <b>TR: </b><b>Google sayfası</b>nın eski halinin Clone çalışması.<br>
 <b>EN: </b>Clone practice of current state of <b>Google page</b>.<br>
 
