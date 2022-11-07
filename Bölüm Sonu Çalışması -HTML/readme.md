@@ -1,4 +1,4 @@
-# A Simple Html Page
+# A Simple Html Page🙌
 <b>TR: </b>Html ile yapılan bir <b>bölüm sonu çalışması.</b><br>
 <b>EN: </b>A <b>section break practice</b> made with HTML.<br>
 
