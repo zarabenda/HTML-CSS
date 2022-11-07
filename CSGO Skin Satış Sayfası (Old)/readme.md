@@ -1,4 +1,4 @@
-# Cs:Go Skin Sales Page(Old one)
+# Cs:Go Skin Sales Page(Old one)🙌
 <b>TR: </b>Skinler ve birkaç yönlendirme sayfasından oluşan <b>Cs:Go skin satış sayfası</b>.<br>
 <b>EN: </b><b>Cs:Go skin sales page</b> with skins and several landing pages.<br>
 
