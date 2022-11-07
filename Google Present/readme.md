@@ -1,3 +1,5 @@
-Google'ın şimdiki halinin Clone çalışması
+# Google 1998 Clone
+<b>TR: </b>Google sayfasının şimdiki halinin Clone çalışması.<br>
+<b>EN: </b>Clone practice of the current state of Google page.<br>
 
 ![outlook](https://user-images.githubusercontent.com/109991448/200235290-2760f8d1-ee07-4113-976f-0461e7035169.jpg)
