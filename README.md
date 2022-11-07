@@ -1,4 +1,4 @@
-# HTML-CSS
+# HTML-CSS😊👍
 <b>TR:</b> HTML ve CSS ile yapılmış projeleri içeren repo.<br>
 <b>EN:</b> Repository including projects which is made with HTML and CSS.<br>
 
