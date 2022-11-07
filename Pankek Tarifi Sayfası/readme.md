@@ -1,4 +1,4 @@
-# Pancake Recipe Web Page
+# Pancake Recipe Web Page🙌
 <b>TR:</b> HTML ve CSS ile yapılmış <b>Pankek tarifi</b> konulu web sayfası.<br>
 <b>EN:</b> Web page about <b>Pancake recipe</b> made with HTML and CSS.<br>
 
